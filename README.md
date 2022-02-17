@@ -58,13 +58,13 @@ ICM:
 
 `plt.figure(figsize=(12, 7))`
 
-`plt.title('Распределение метилирования в образце "Epiblast"', fontsize=18)`
+`plt.title('Destribution of methylation in Epiblast', fontsize=18)`
 
 `plt.hist(graph[3], bins=100, density=True)`
 
-`plt.xlabel('Процент метилированных цитозинов')`
+`plt.xlabel('Methylated cytosines, %')`
 
-`plt.ylabel('Частота')`
+`plt.ylabel('Frequency')`
 
 `plt.show()`
 
