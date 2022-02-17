@@ -49,17 +49,10 @@ ICM:
 Для получения гистрограмм использовался данный код (на примере образца Epiblast):
 
 `path = 's_epiblast.deduplicated.bedGraph'`
-
 `graph = pd.read_csv(path,  delimiter='\t', skiprows=1, header=None)`
-
 `plt.figure(figsize=(12, 7))`
-
 `plt.title('Распределение метилирования в образце "Epiblast"', fontsize=18)`
-
 `plt.hist(graph[3], bins=100, density=True)`
-
 `plt.xlabel('Процент метилированных цитозинов')`
-
 `plt.ylabel('Частота')`
-
 `plt.show()`
