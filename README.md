@@ -63,3 +63,9 @@ ICM:
 `plt.ylabel('Частота')`
 
 `plt.show()`
+
+Предварительно нужно было скачать пару библиотек:
+
+`import pandas as pd`
+
+`from matplotlib import pyplot as plt`
