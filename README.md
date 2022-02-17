@@ -20,6 +20,7 @@
 Колинг был выполнен, все отчёты прилагаются.
 ### d) M-bias plots
 Графики, описывающие метилирование в образцах.
+
 Epiblast:
 
 ![Bismark M-bias Read 1](https://user-images.githubusercontent.com/93254228/154489509-33eee5ac-a04d-491f-bc51-b03d466abcd3.png)
