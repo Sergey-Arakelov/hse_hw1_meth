@@ -15,3 +15,5 @@
 ![image](https://user-images.githubusercontent.com/93254228/154454832-6e5a9775-0337-4617-9e0e-528f08b2f281.png)
 
 Бонус: одновременная дедупликация через скрипт: `! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}`
+
+### c) Коллинг метилирования цитозинов. 
