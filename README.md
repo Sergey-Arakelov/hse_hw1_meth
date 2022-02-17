@@ -14,4 +14,4 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/154454832-6e5a9775-0337-4617-9e0e-528f08b2f281.png)
 
-Бонус: дедупликация всех образцов через одну команду: ! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+Бонус: дедупликация всех образцов через одну команду: `! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}`
