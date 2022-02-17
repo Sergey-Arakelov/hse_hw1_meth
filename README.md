@@ -9,3 +9,9 @@
 ### a) Картирование на заданные участки
 
 ![image](https://user-images.githubusercontent.com/93254228/154446119-5f96a7a6-9bcb-4dad-b9fe-3fadf7f62b5a.png)
+
+### b) Дедупликация
+
+![image](https://user-images.githubusercontent.com/93254228/154454832-6e5a9775-0337-4617-9e0e-528f08b2f281.png)
+
+Бонус: дедупликация всех образцов через одну команду: ! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
