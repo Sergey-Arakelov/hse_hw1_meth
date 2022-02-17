@@ -48,17 +48,18 @@ ICM:
 ### e) Гистограмма распределения метилирования цитозинов по хромосоме (BedGraph)
 Для получения гистрограмм использовался данный код (на примере образца Epiblast):
 
-`path = 's_epiblast.deduplicated.bedGraph'
+`path = 's_epiblast.deduplicated.bedGraph'`
 
-graph = pd.read_csv(path,  delimiter='\t', skiprows=1, header=None)
-plt.figure(figsize=(12, 7))
+`graph = pd.read_csv(path,  delimiter='\t', skiprows=1, header=None)`
 
-plt.title('Распределение метилирования в образце "Epiblast"', fontsize=18) 
+`plt.figure(figsize=(12, 7))`
 
-plt.hist(graph[3], bins=100, density=True)
+`plt.title('Распределение метилирования в образце "Epiblast"', fontsize=18)`
 
-plt.xlabel('Процент метилированных цитозинов')
+`plt.hist(graph[3], bins=100, density=True)`
 
-plt.ylabel('Частота')
+`plt.xlabel('Процент метилированных цитозинов')`
 
-plt.show()`
+`plt.ylabel('Частота')`
+
+`plt.show()`
