@@ -5,3 +5,7 @@
 ![image](https://user-images.githubusercontent.com/93254228/154434313-2c740a8c-8627-49ba-8e35-6ea6d3550a09.png)
 ![image](https://user-images.githubusercontent.com/93254228/154434385-6a4bffd0-2b7b-46cf-ba67-12a8fcd320b4.png)
 
+## 2 Дальнейшая работа
+### a Картирование на заданные участки
+
+![image](https://user-images.githubusercontent.com/93254228/154446119-5f96a7a6-9bcb-4dad-b9fe-3fadf7f62b5a.png)
