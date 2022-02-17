@@ -19,3 +19,22 @@
 ### c) Коллинг метилирования цитозинов. 
 Колинг был выполнен, все отчёты прилагаются.
 ### d) M-bias plots
+Графики, описывающие метилирование в образцах.
+Epiblast:
+
+![Bismark M-bias Read 1](https://user-images.githubusercontent.com/93254228/154489509-33eee5ac-a04d-491f-bc51-b03d466abcd3.png)
+
+![Bismark M-bias Read 2](https://user-images.githubusercontent.com/93254228/154489542-35f13972-4e51-4ada-9208-e825f9dbf2fd.png)
+
+8 cell:
+
+![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/93254228/154489764-6fa077a4-c25a-49ae-b2a7-bf549abb438f.png)
+
+![Bismark M-bias Read 2 (1)](https://user-images.githubusercontent.com/93254228/154489802-2b82f86e-1c80-45a9-b332-d3c840107658.png)
+
+ICM:
+
+![Bismark M-bias Read 1 (2)](https://user-images.githubusercontent.com/93254228/154489918-b57c0ee7-23a1-40ce-a1c8-c9552470d0d1.png)
+
+![Bismark M-bias Read 2 (2)](https://user-images.githubusercontent.com/93254228/154489951-ecd35624-963c-4963-958b-5142544cb095.png)
+
