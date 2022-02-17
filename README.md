@@ -27,7 +27,7 @@ Epiblast:
 
 ![Bismark M-bias Read 2](https://user-images.githubusercontent.com/93254228/154489542-35f13972-4e51-4ada-9208-e825f9dbf2fd.png)
 
-8 cell:
+8 cells:
 
 ![Bismark M-bias Read 1 (1)](https://user-images.githubusercontent.com/93254228/154489764-6fa077a4-c25a-49ae-b2a7-bf549abb438f.png)
 
@@ -39,3 +39,8 @@ ICM:
 
 ![Bismark M-bias Read 2 (2)](https://user-images.githubusercontent.com/93254228/154489951-ecd35624-963c-4963-958b-5142544cb095.png)
 
+Для наглядного объяснения пригодится график, показывающий уровень CpG-метилирования на разных стадиях развития:
+
+![image](https://user-images.githubusercontent.com/93254228/154490202-7377343b-742d-46ef-9a08-09e28d6023c6.png)
+
+Так, мы можем видеть, что на стадии Epiblast уровень метилирования самый высокий (в основном 77-78%), на стадии 8 cells метилирования меньше (42-45%), а самый низкий уровень метилирования наблюдается на промежуточной стадии ICM (в основном 22-24%), что соответствует графику.
