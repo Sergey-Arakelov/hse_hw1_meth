@@ -69,3 +69,12 @@ ICM:
 `import pandas as pd`
 
 `from matplotlib import pyplot as plt`
+
+![image](https://user-images.githubusercontent.com/93254228/154498345-87adfae8-ef4b-4d52-86cd-edfb9043ba0c.png)
+
+![image](https://user-images.githubusercontent.com/93254228/154498400-b8edeb70-a34e-48f8-bdae-7ac8de3b883f.png)
+
+![image](https://user-images.githubusercontent.com/93254228/154498471-45ce6fc6-ea77-4178-93b5-48eb166d5d1f.png)
+
+
+
